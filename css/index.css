@@ -8,7 +8,7 @@ body {
   background-repeat: no-repeat;
 }
 .mrmu-img {
-  padding: 0 48px;
+  padding: 48px 0;
 }
 .mrmu-img > img {
   width: 360px;
