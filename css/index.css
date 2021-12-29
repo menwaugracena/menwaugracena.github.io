@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+}
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("https://www.monumenmenwa.com/img/background.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.mrmu-img {
+  padding: 48px;
+}
+.mrmu-img > img {
+  width: 360px;
+  height: 360px;
+}
+.history {
+  margin-top: -12px;
+  margin-bottom: 24px;
+}
+.history > h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 1.3em;
+}
+.history > p {
+  text-align: justify;
+  color: #fff;
+  margin: 0 18px;
+}
+.contact {
+	text-align: center;
+	margin-bottom: 16px;
+}
+.contact > a {
+	text-decoration: none;
+	color: #fff;
+}
+.contact > a:hover {
+	color: #dcd;
+}
+.contact > a > img {
+	margin: 0 6px;
+	height: 30px;
+}
+footer {
+  text-align: center;
+  margin-bottom: -8px;
+}
+footer > h1 {
+  font-size: 1em;
+  color: #fff;
+  padding: 12px;
+}
